@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/auth"
 summary: Email/password, OIDC and magic-link sign-in, TOTP 2FA, password reset, sessions, API keys.
 license: CC-BY-4.0
+tags: [base, accounts]
 derived_from:
   repo: https://github.com/calcom/cal.com
   commit: 0f19cc46ef6b6426ee398c670575b3c96be7af9e
