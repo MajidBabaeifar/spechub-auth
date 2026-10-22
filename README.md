@@ -13,6 +13,7 @@ derived_from:
 # Auth
 
 Accounts and sign-in for a multi-user web app. Partly derived from Cal.com's auth; password and rate-limit rules follow NIST 800-63B instead.
+Not affiliated with or endorsed by Cal.com, Inc. The name is used only to credit the source.
 
 | Area | Prefix | Covers |
 |---|---|---|
